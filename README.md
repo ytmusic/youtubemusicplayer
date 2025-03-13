@@ -1,7 +1,7 @@
 # Youtube Music Player
 Youtube mp3 music player online,  stream online music , mp3 music listen , listen music online.
 
-Go to - [txt.re](https://txt.re)
+Go to -  https://txtland.pages.dev/
 
 Discover the Best Way to Listen to Music Online.
 
@@ -13,7 +13,7 @@ Listen to MP3 music directly from your browser. No need for additional software 
 Listen Music Online:
 Listen to music online. Our platform is optimized for all devices, so you can enjoy your music on your smartphone, tablet, or computer.
 
-Visit https://txt.re on your device.
+Visit https://txtland.pages.dev/ on your device.
 
 Search music using search bar and click search.
 
