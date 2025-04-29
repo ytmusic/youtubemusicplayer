@@ -1,7 +1,7 @@
 # Youtube Music Player
 Youtube mp3 music player online,  stream online music , mp3 music listen , listen music online.
 
-Go to -  https://youtunes.pages.dev/
+Go to -  https://ytplays.xyz/
 
 Discover the Best Way to Listen to Music Online.
 
@@ -13,7 +13,7 @@ Listen to MP3 music directly from your browser. No need for additional software 
 Listen Music Online:
 Listen to music online. Our platform is optimized for all devices, so you can enjoy your music on your smartphone, tablet, or computer.
 
-Visit https://youtunes.pages.dev/ on your device.
+Visit https://ytplays.xyz/ on your device.
 
 Search music using search bar and click search.
 
